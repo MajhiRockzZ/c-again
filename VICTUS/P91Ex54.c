@@ -15,6 +15,6 @@ int main() {
         decimal_num = decimal_num / 16;
         i++;
     }
-    printf("\n The hexa decimal equivalent = %d", hex_num);
+    printf("\n The hexa decimal equivalent = %X", hex_num);
     return 0;
 }
